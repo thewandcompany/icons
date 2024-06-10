@@ -15,3 +15,5 @@ Example linking to Twitter icon via jsDelivr:
 Replace the [icon name](https://github.com/thewandcompany/icons/tree/master/icons/round/50px/) and social media link as desired.
 
 Please **DO NOT** link to the file directly on GitHub. Please use a CDN, as shown above.
+
+This was based on https://github.com/dmhendricks/signature-social-icons 
